@@ -1,0 +1,17 @@
+{
+  "name": "electron-talk",
+  "version": "1.0.0",
+  "description": "Magical code editor",
+  "main": "index.js",
+  "author": "Samuel Attard <samuel.r.attard@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "1.7.5"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "monaco-loader": "^0.8.2"
+  }
+}
